@@ -1,0 +1,11 @@
+.box{
+    width: 300px;
+}
+input{
+    height: 40px;
+    width: 200px;
+}
+button{
+    width: 60px;
+    height: 40px;
+}
